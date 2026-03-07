@@ -1,0 +1,29 @@
+h1{ color:white; 
+    background-color: blue; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center; 
+    border-style: solid;
+    border-radius: 20px; }
+
+p{
+    border:2px solid #555;
+    padding: 12px;
+    margin: 18px 0;
+    border-radius: 12px;
+    background-color:white ;
+    line-height:1.7;
+    text-align:justify ;
+} 
+ul{
+    border:2px solid #555;
+    padding: 12px;
+    margin: 18px 0;
+    border-radius: 12px;
+    background-color:white ;
+} 
+li{
+    margin:6px 0;
+} 
+body{
+    
+}
